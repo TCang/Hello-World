@@ -1,0 +1,6 @@
+import os, sys
+
+dirs = os.listdir('C:/filepath')
+
+for file in dirs:
+    print (file)
